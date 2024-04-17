@@ -72,3 +72,4 @@ end
 gem "simple_form"
 gem 'sassc'
 gem 'bootstrap-sass'
+gem "cloudinary"
